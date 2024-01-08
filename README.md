@@ -3,7 +3,10 @@
 This repository contains a collection of papers and resources  on **backdoor attacks** and **backdoor defense** in deep learning.
 
 # Table of contents
+- [⚔🛡 Awesome Backdoor Attacks and Defenses](#-awesome-backdoor-attacks-and-defenses)
+- [Table of contents](#table-of-contents)
 - [📃Survey](#survey)
+- [Tutorial \& Workshop](#tutorial--workshop)
 - [⚔Backdoor Attacks](#backdoor-attacks)
   - [Supervised learning (Image classification)](#supervised-learning-image-classification)
   - [Semi-supervised learning](#semi-supervised-learning)
@@ -188,8 +191,9 @@ This repository contains a collection of papers and resources  on **backdoor att
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | NeurIPS 2023 | [VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models](https://neurips.cc/virtual/2023/poster/70045) |                                                              |
 | 2023 | ICCV 2023    | [Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/ICCV2023/html/Struppek_Rickrolling_the_Artist_Injecting_Backdoors_into_Text_Encoders_for_Text-to-Image_ICCV_2023_paper.html) | [:octocat:](https://github.com/LukasStruppek/Rickrolling-the-Artist) |
-| 2023 | CVPR 2023    | [How to Backdoor Diffusion Models?](https://arxiv.org/abs/2206.07840) | [:octocat:](https://github.com/IBM/BadDiffusion)             |
-| 2023 | CVPR 2023    | [TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets](https://chenweixin107.github.io/assets/pdf/TrojDiff_camera_ready_main_ieee.pdf) | [:octocat:](https://github.com/chenweixin107/TrojDiff)       |
+| 2023 | CVPR 2023    | [How to Backdoor Diffusion Models?](http://arxiv.org/abs/2212.05400) | [:octocat:](https://github.com/IBM/BadDiffusion)|     |
+| 2023 | CVPR 2023    | [TrojDiff: Trojan Attacks on Diffusion Models With Diverse Targets](http://arxiv.org/abs/2303.05762) | [:octocat:](https://github.com/chenweixin107/TrojDiff)|
+| 2023 | CVPR 2023    | [TrojViT: Trojan Insertion in Vision Transformers](http://arxiv.org/abs/2208.13049) | |
 
 ## Large language model & other NLP tasks
 
@@ -260,7 +264,8 @@ This repository contains a collection of papers and resources  on **backdoor att
 | 2023 | IEEE SP | [RAB: Provable Robustness Against Backdoor Attacks](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a640/1OXH36wfd3a) | [:octocat:](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks/blob/master/README.md) |
 | 2023 | ICLR 2023 | [Towards Robustness Certification Against Universal Perturbations](https://openreview.net/forum?id=7GEvPKxjtt) | [:octocat:](https://github.com/KaiyuanZh/FLIP) |
 | 2022 | ICLR 2022 | [Backdoor defense via decoupling the training process](https://openreview.net/pdf?id=TySnJ-0RdKI) | [:octocat:](https://github.com/SCLBD/DBD) |
-| 2022 | NeurIPS 2022 | [Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples](https://openreview.net/pdf?id=AsH-Tx2U0Ug) | [:octocat:](https://github.com/SCLBD/Effective_backdoor_defense) |
+| 2022 | NeurIPS 2022 | [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ec0c9ca85b4ea49c7ebfb503cf55f2ae-Abstract-Conference.html) | [:octocat:](https://github.com/RU-System-Software-and-Security/NONE) |
+| 2022 | NeurIPS 2022 | [Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3f9bbf77fbd858e5b6e39d39fe84ed2e-Abstract-Conference.html) | [:octocat:](https://github.com/SCLBD/Effective_backdoor_defense) |
 | 2022 | AAAI 2022 | [Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://arxiv.org/abs/2012.03765) |  |
 | 2021 | NeurIPS 2021 | [Anti-Backdoor Learning: Training Clean Models on Poisoned Data](https://proceedings.neurips.cc/paper/2021/file/7d38b1e9bd793d3f45e0e212a729a93c-Paper.pdf) | [:octocat:](https://github.com/bboylyg/ABL) |
 | 2021 | AAAI 2021 | [Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks](https://arxiv.org/abs/2008.04495) | [:octocat:](https://github.com/jinyuan-jia/BaggingCertifyDataPoisoning) |
