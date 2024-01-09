@@ -63,10 +63,8 @@ This repository contains a collection of papers and resources  on **backdoor att
 ## Supervised learning (Image classification)
 | Year | Publication  | Paper                                                        | Code                                                         |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | NeurIPS 2023 | [Label Poisoning is All You Need](https://neurips.cc/virtual/2023/poster/70392) |  |
+| 2023 | NeurIPS 2023 | [Label Poisoning is All You Need](https://openreview.net/pdf?id=prftZp6mDH) |  |
 | 2023 | ICCV 2023 | [Computation and Data Efficient Backdoor Attacks](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Computation_and_Data_Efficient_Backdoor_Attacks_ICCV_2023_paper.html) |  |
-| 2023 | arXiv | [Boosting backdoor attack with a learnable poisoning sample selection strategy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lBSoR4IAAAAJ&citation_for_view=lBSoR4IAAAAJ:KlAtU1dfN6UC) | |
-| 2023 | arXiv | [Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lBSoR4IAAAAJ&citation_for_view=lBSoR4IAAAAJ:kNdYIx-mwKoC) | |
 | 2023 | CVPR 2023    | [Architectural Backdoors in Neural Networks](https://arxiv.org/abs/2206.07840) | |
 | 2023 | CVPR 2023    | [Color Backdoor: A Robust Poisoning Attack in Color Space](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Color_Backdoor_A_Robust_Poisoning_Attack_in_Color_Space_CVPR_2023_paper.pdf) | |
 | 2023 | CVPR 2023    | [You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?](https://openreview.net/forum?id=7P_yIFi6zaA) | |
@@ -170,7 +168,7 @@ This repository contains a collection of papers and resources  on **backdoor att
 
 | Year | Publication  | Paper                                                        | Code                                                         |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | NeurIPS 2023 | [BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking](https://neurips.cc/virtual/2023/poster/71420) |                                                              |
+| 2023 | NeurIPS 2023 | [BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking](https://openreview.net/pdf?id=W9pJx9sFCh) |                                                              |
 | 2022 | ICLR 2022    | [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/forum?id=qSV5CuSaK_a) | [:octocat:](https://github.com/HXZhong1997/FSBA)             |
 | 2022 | MM 2022      | [Backdoor Attacks on Crowd Counting](https://doi.org/10.1145/3503161.3548296) | [:octocat:](https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting) |
 | 2021 | ICCV 2021    | [A Backdoor Attack against 3D Point Cloud Classifiers](https://doi.org/10.1109/ICCV48922.2021.00750) | [:octocat:](https://github.com/zhenxianglance/PCBA)          |
@@ -189,7 +187,7 @@ This repository contains a collection of papers and resources  on **backdoor att
 
 | Year | Publication  | Paper                                                        | Code                                                         |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | NeurIPS 2023 | [VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models](https://neurips.cc/virtual/2023/poster/70045) |                                                              |
+| 2023 | NeurIPS 2023 | [VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models](https://arxiv.org/pdf/2306.06874.pdf) | [:octocat:](https://github.com/IBM/VillanDiffusion) |
 | 2023 | ICCV 2023    | [Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/ICCV2023/html/Struppek_Rickrolling_the_Artist_Injecting_Backdoors_into_Text_Encoders_for_Text-to-Image_ICCV_2023_paper.html) | [:octocat:](https://github.com/LukasStruppek/Rickrolling-the-Artist) |
 | 2023 | CVPR 2023    | [How to Backdoor Diffusion Models?](http://arxiv.org/abs/2212.05400) | [:octocat:](https://github.com/IBM/BadDiffusion)|     |
 | 2023 | CVPR 2023    | [TrojDiff: Trojan Attacks on Diffusion Models With Diverse Targets](http://arxiv.org/abs/2303.05762) | [:octocat:](https://github.com/chenweixin107/TrojDiff)|
@@ -261,7 +259,7 @@ This repository contains a collection of papers and resources  on **backdoor att
 | ---- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | CVPR 2023    | [Backdoor Defense via Adaptively Splitting Poisoned Dataset](https://arxiv.org/abs/2303.12993) | [:octocat:](https://github.com/KuofengGao/ASD) |
 | 2023 | CVPR 2023    | [Backdoor Defense via Deconfounded Representation Learning](https://arxiv.org/abs/2303.06818) | [:octocat:](https://github.com/zaixizhang/CBD) |
-| 2023 | IEEE SP | [RAB: Provable Robustness Against Backdoor Attacks](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a640/1OXH36wfd3a) | [:octocat:](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks/blob/master/README.md) |
+| 2023 | IEEE SP | [RAB: Provable Robustness Against Backdoor Attacks](https://arxiv.org/pdf/2003.08904.pdf) | [:octocat:](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks/blob/master/README.md) |
 | 2023 | ICLR 2023 | [Towards Robustness Certification Against Universal Perturbations](https://openreview.net/forum?id=7GEvPKxjtt) | [:octocat:](https://github.com/KaiyuanZh/FLIP) |
 | 2022 | ICLR 2022 | [Backdoor defense via decoupling the training process](https://openreview.net/pdf?id=TySnJ-0RdKI) | [:octocat:](https://github.com/SCLBD/DBD) |
 | 2022 | NeurIPS 2022 | [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ec0c9ca85b4ea49c7ebfb503cf55f2ae-Abstract-Conference.html) | [:octocat:](https://github.com/RU-System-Software-and-Security/NONE) |
@@ -275,11 +273,11 @@ This repository contains a collection of papers and resources  on **backdoor att
 
 | Year | Publication  | Paper                                                        | Category             | Code                                                         |
 | ---- | ------------ | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
-| 2024 | IEEE SP      | [MM-BD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a015/1RjE9SU7Kz6) | Detection            |                                                              |
-| 2023 | NeurIPS 2023 | [Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features](https://neurips.cc/virtual/2023/poster/71467) | Mitigation           |                                                              |
-| 2023 | NeurIPS 2023 | [Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples](https://neurips.cc/virtual/2023/poster/69874) | Mitigation           |                                                              |
-| 2023 | NeurIPS 2023 | [Stable Backdoor Purification with Feature Shift Tuning](https://neurips.cc/virtual/2023/poster/72630) | Mitigation           | [:octocat:](https://github.com/AISafety-HKUST/stable_backdoor_purification) |
-| 2023 | NeurIPS 2023 | [CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://neurips.cc/virtual/2023/poster/72180) |                      |                                                              |
+| 2024 | IEEE SP      | [MM-BD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic](https://arxiv.org/pdf/2205.06900.pdf) | Detection            |                                                              |
+| 2023 | NeurIPS 2023 | [Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features](https://arxiv.org/pdf/2306.16697.pdf) | Mitigation           |                                                              |
+| 2023 | NeurIPS 2023 | [Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples](https://arxiv.org/pdf/2307.10562.pdf) | Mitigation           |                                                              |
+| 2023 | NeurIPS 2023 | [Stable Backdoor Purification with Feature Shift Tuning](https://arxiv.org/pdf/2310.01875.pdf) | Mitigation           | [:octocat:](https://github.com/AISafety-HKUST/stable_backdoor_purification) |
+| 2023 | NeurIPS 2023 | [CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://openreview.net/pdf?id=H1CQZqpgdQ) |                      |                                                              |
 | 2023 | ICCV 2023    | [Enhancing Fine-Tuning Based Backdoor Defense with Sharpness-Aware Minimization](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_Enhancing_Fine-Tuning_Based_Backdoor_Defense_with_Sharpness-Aware_Minimization_ICCV_2023_paper.html) | Mitigation           |                                                              |
 | 2023 | CVPR 2023    | [Backdoor Cleansing with Unlabeled Data](https://arxiv.org/abs/2211.12044) | Mitigation           | [:octocat:](https://github.com/luluppang/BCU)                |
 | 2023 | CVPR 2023    | [MEDIC: Remove Model Backdoors via Importance Driven Cloning](https://openreview.net/forum?id=qHcR93949op) | Mitigation           |                                                              |
@@ -367,13 +365,13 @@ This repository contains a collection of papers and resources  on **backdoor att
 
 | Year | Publication  | Paper                                                        | Code |
 | ---- | ------------ | ------------------------------------------------------------ | ---- |
-| 2023 | NeurIPS 2023 | [Django: Detecting Trojans in Object Detection Models via Gaussian Focus Calibration](https://neurips.cc/virtual/2023/poster/72584) |      |
+| 2023 | NeurIPS 2023 | [Django: Detecting Trojans in Object Detection Models via Gaussian Focus Calibration](https://openreview.net/pdf?id=9fb975Au9G) |      |
 
 ## Defense for multimodal models (Visual and Language)
 
 | Year | Publication  | Paper                                                        | Code                                                   |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
-| 2023 | NeurIPS 2023 | [Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks](https://neurips.cc/virtual/2023/poster/71818) |                                                        |
+| 2023 | NeurIPS 2023 | [Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2303.06854.pdf) |                                                        |
 | 2023 | ICCV 2023    | [CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Bansal_CleanCLIP_Mitigating_Data_Poisoning_Attacks_in_Multimodal_Contrastive_Learning_ICCV_2023_paper.html) | [:octocat:](https://github.com/nishadsinghi/CleanCLIP) |
 | 2023 | ICCV 2023    | [TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models](https://openaccess.thecvf.com/content/ICCV2023/html/Sur_TIJO_Trigger_Inversion_with_Joint_Optimization_for_Defending_Multimodal_Backdoored_ICCV_2023_paper.html) | [:octocat:](https://github.com/indranil-sri/TIJO)      |
 | 2023 | CVPR 2023    | [Detecting Backdoors in Pre-trained Encoders](https://arxiv.org/abs/2303.15180) | [:octocat:](https://github.com/GiantSeaweed/DECREE)    |
